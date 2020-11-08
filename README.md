@@ -1,2 +1,3 @@
 # cv
 CV
+Russian / Ukrainian
