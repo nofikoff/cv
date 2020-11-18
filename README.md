@@ -1,3 +1,4 @@
 # cv
 CV
-Russian / Ukrainian
+
+Dont move - link from work.ua
